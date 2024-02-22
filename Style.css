@@ -1,0 +1,28 @@
+/* Add user Css start */
+.Main {
+  background-color: rgb(231, 229, 229);
+  padding: 30px !important;
+  width: 430px !important;
+  border-radius: 10px;
+}
+.Title h2 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: 600;
+  letter-spacing: 5px;
+}
+
+.AllInputs input {
+  width: 350px !important;
+}
+
+/* Add user Css End */
+
+/* List of user Css Start */
+.MainList {
+  background-color: rgb(244, 244, 244);
+  padding: 30px !important;
+  width: 900px !important;
+  border-radius: 10px;
+}
+/* List of user Css End */
